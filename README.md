@@ -21,3 +21,12 @@ Uma calculadora de gastos mensais feita com **Python** e **Tkinter**, com interf
 ---
 
 ## 🖼️ Capturas de Tela
+### Tela Inicial
+![Tela Inicial](imagem1.png)
+
+
+### Tela de Gasto com Prévia
+![Tela Gastos](imagem2.png)
+
+### Tela de Resultados
+![Tela Resultados](imagem3.png)
