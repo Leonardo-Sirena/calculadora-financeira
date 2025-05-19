@@ -295,36 +295,3 @@ root = Tk()
 app = CalculadoraFinanceira(root) 
 root.mainloop()     
 
-# self.criar_campo("Renda Mensal (R$):", 1)
-   # self.criar_campo("Gastos Necessários (R$):", 2)
-   # self.criar_campo("Gastos Imprevistos (R$):", 3)
-    #    self.criar_campo("Gastos Desnecessários (R$):", 4)
-    # self.btn_adicionar = Button(self.frame_principal,
-                                   # text= "Adicionar",
-                                   # font=("Arial", 10),
-                                   # bg='#f6b139',
-                                   # fg='white')
-       # self.btn_adicionar.grid(row=5, column=0, columnspan=1, pady=15, ipadx=25)
-        
-       # self.btn_calcular = Button(self.frame_principal,
-                              #  text="Calcular",
-                              #  font=("Arial", 10),
-                               # command=self.calcular,
-                              #  bg='#4CAF50',
-                              #  fg='white')
-       # self.btn_calcular.grid(row=5, column=1, columnspan=1, pady=15, ipadx=25)
-        #self.frame_resultados = Frame(master, bg='#f0f0f0')
-        #self.frame_resultados.pack(pady=10)
-        
-        #self.label_resultado = Label(self.frame_resultados,
-                      #            text="",
-                       #           font=("Arial", 12),
-                       #           bg='#f0f0f0')
-        #self.label_resultado.pack()
-
-        #self.label_percentual = Label(self.frame_resultados,
-                   #                 text="",
-                     #               font=("Arial", 10),
-                      #              bg='#f0f0f0')
-        #self.label_percentual.pack()
-        
